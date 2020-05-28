@@ -3,13 +3,9 @@
 ### ICCV 2019
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Onion-Peel_Networks_for_Deep_Video_Completion_ICCV_2019_paper.html)
 
-[![Onion-Peel Networks for Deep Video Completion](https://img.youtube.com/vi/bxerAkHAttE/0.jpg)](https://www.youtube.com/watch?v=bxerAkHAttE "Onion-Peel Networks for Deep Video Completion")
-
-
 ### - This repository contains a demo software for OPN with following applications
  1) Reference guided image completion (group photo inpainting)
  2) Video completion
-
 
 ### - Requirements
 - python 3.6
